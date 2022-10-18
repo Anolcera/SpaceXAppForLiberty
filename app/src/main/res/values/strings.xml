@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="ship_image">Ship Image</string>
+    <string name="placeholder_image_url">https://i.kym-cdn.com/entries/icons/original/000/027/100/_103330503_musk3.jpg</string>
+</resources>
